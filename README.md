@@ -1,2 +1,2 @@
 # Algorithms
-Levitin's book
+Algorithms covered in Levitin's book coded in Python.

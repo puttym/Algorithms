@@ -1,4 +1,3 @@
-from random import randint
 from utilities import generate_int_list, verify_sort, set_constants
 
 def bubble_sort(array_length, a):
